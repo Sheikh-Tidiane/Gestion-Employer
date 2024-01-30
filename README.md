@@ -5,8 +5,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/votre-utilisateur/GestionSalaireEmployer)
 ![GitHub forks](https://img.shields.io/github/forks/votre-utilisateur/GestionSalaireEmployer)
 
-Bienvenue dans le projet GestionSalaireEmployer, développé avec amour par JonasDev, votre développeur web transparent.
-
 ## Description du Projet
 
 GestionSalaireEmployer est un projet Laravel V10 qui vous permet de gérer efficacement vos employés. Ce logiciel offre les fonctionnalités suivantes :
