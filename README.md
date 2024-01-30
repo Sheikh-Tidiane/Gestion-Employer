@@ -28,23 +28,6 @@ GestionSalaireEmployer est un projet Laravel V10 qui vous permet de gérer effic
 5. Lancez l'application.
 6. php artisan serve
 
-   
-## Besoin d'aide ?
-
-Si vous rencontrez des difficultés avec le code ou avez des questions, n'hésitez pas à me contacter à l'adresse suivante : [kjonasdevpro@gmail.com](mailto:kjonasdevpro@gmail.com).
-
-## Contributions
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request pour améliorer ce projet.
-
-## Licence
-
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
-
----
-
-Merci d'utiliser GestionSalaireEmployer ! Nous espérons qu'il vous sera utile.
-
 
 
 
